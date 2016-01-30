@@ -38,3 +38,4 @@ Routing with Angular:
   Now our application is flexiable. It can support any number of contollers and templates and and routing engine will swap them in and out.
   Routing engine  will also coordinate with the browers history so if the user clicks on the back or forward button they will navigate inside our application.
 
+  Testing github repository

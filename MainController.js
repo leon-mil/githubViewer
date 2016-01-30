@@ -1,6 +1,7 @@
 // *************************************************************************** 
 // MainControllers responsobility is manage the search form and the countdown
 //  if the user doesn't perform the search first.
+// Testing github repository
 // *************************************************************************** 
 
 (function() {
